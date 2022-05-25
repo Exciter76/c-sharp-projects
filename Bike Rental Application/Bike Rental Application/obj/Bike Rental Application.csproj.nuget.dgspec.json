@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\broderick1\\source\\repos\\Bike Rental Application\\Bike Rental Application\\Bike Rental Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\broderick1\\source\\repos\\Bike Rental Application\\Bike Rental Application\\Bike Rental Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\broderick1\\source\\repos\\Bike Rental Application\\Bike Rental Application\\Bike Rental Application.csproj",
+        "projectName": "Bike Rental Application",
+        "projectPath": "C:\\Users\\broderick1\\source\\repos\\Bike Rental Application\\Bike Rental Application\\Bike Rental Application.csproj",
+        "packagesPath": "C:\\Users\\broderick1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\broderick1\\source\\repos\\Bike Rental Application\\Bike Rental Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\broderick1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
